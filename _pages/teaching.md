@@ -8,7 +8,7 @@ author_profile: true
 
 
 
-\item Winter 2024 - STAT 4P82/5P82 Nonparametric Statistics, STAT 5P85 Mathematical Statistical Inference
+* Winter 2024 - STAT 4P82/5P82 Nonparametric Statistics, STAT 5P85 Mathematical Statistical Inference
 
 * Fall 2023 - STAT 4P81/5P81 Sampling Theory, STAT 3P81 Experimental Design
 
