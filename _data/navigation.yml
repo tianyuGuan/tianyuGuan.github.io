@@ -1,5 +1,6 @@
 # main links links
 main:
+
   - title: "Publications"
     url: /publications/
    
@@ -13,8 +14,13 @@ main:
   - title: "Students"
     url: /students/    
 
-  - title: "Future Students"
-    url: /futurestudents/ 
+  
+  - title: "Contact"
+    url: /contact/
+   
+
+  #- title: "Future Students"
+  #  url: /futurestudents/ 
 
 
   #- title: "Portfolio"

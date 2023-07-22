@@ -83,11 +83,11 @@ author:
   name             : "Tianyu Guan"
   avatar           : "profile.png"
   bio              : "Assistant Professor, Department of Mathematics and Statistics, Brock University"
-  location         : "Mackenzie Chown J411"
-  employer         : "Brock University"
+  location         : "Mackenzie Chown J411, Brock University"
+  employer         : # "Brock University"
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=SL5SJ7IAAAAJ&hl=en&oi=sra"
-  email (tguan@brocku.ca)            : "tguan@brocku.ca"
+  email            : "tguan@brocku.ca"
   researchgate     : "https://www.researchgate.net/profile/Tianyu-Guan-7e"
   uri              :
   bitbucket        :
