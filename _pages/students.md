@@ -7,7 +7,6 @@ author_profile: true
 
 
 Current Students:
-======
 
 * Pranath Pussella, M.Sc. Student, Brock University, Jan 2023 - Present
 
