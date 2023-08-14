@@ -21,7 +21,7 @@ of Computational and Graphical Statistics 29 (3), 620 - 628. An R package \emph{
 6. Guan, T., Ho, J., Krider, R., Cao, J., and Fogg, A. (2023+). How Do Pre-Launch Online Movie Reviews In
 uence Box O ce Revenues? Under review.
 
-7. Guan, T., Sarkar S., and Swartz, T. (2023+). Analysis of Individual Playing Style in Soccer. Submitted.
+7. Guan, T., Sarkar S., and Swartz, T. (2023+). Comparison of Individual Playing Styles in Soccer. Submitted.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
