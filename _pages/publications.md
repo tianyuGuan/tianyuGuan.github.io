@@ -16,10 +16,9 @@ author_profile: true
 The Canadian Journal of Statistics 50 (4), 1254 - 1269.
 
 5. Guan, T., Lin, Z., and Cao, J. (2020). Estimating Truncated Functional Linear Models with a Nested Group Bridge Approach. Journal
-of Computational and Graphical Statistics 29 (3), 620 - 628. An R package \emph{ngr} has been developed for implementing the proposed method.
+of Computational and Graphical Statistics 29 (3), 620 - 628. An R package *ngr* has been developed for implementing the proposed method.
 
-6. Guan, T., Ho, J., Krider, R., Cao, J., and Fogg, A. (2023+). How Do Pre-Launch Online Movie Reviews In
-uence Box O ce Revenues? Under review.
+6. Guan, T., Ho, J., Krider, R., Cao, J., and Fogg, A. (2023+). How Do Pre-Launch Online Movie Reviews Related to Box Office Revenues? Minor revision, Annals of Applied Statistics.
 
 7. Guan, T., Sarkar S., and Swartz, T. (2023+). Comparison of Individual Playing Styles in Soccer. Submitted.
 
