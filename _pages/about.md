@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am an Assistant Professor in the Department of Mathematics and Statistics at Brock University. 
+I am an Assistant Professor in the Department of Mathematics and Statistics at York University. 
 
 I graduated with a PhD in Statistics from Simon Fraser University in 2020 under the supervision of Dr. Jiguo Cao. I received my MSc in Actuarial Science from Simon Fraser University in 2014 and I completed my BSc in Statistics from Jilin University in 2011.
 
