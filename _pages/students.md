@@ -7,6 +7,7 @@ author_profile: true
 
 
 Current Students:
+* Sheraz Ahmed, M.Sc. Student, Brock University, Sep 2023 - Present
 
 * Pranath Pussella, M.Sc. Student, Brock University, Jan 2023 - Present
 
