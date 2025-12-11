@@ -10,3 +10,4 @@
 # to set working directory
 # 1. cd ~ : to the user page
 # 2. cd /Users/tianyuguan/Desktop/tianyuweb/tianyuGuan.github.io 
+cd /Users/tianyuguan/Documents/tianyuweb/tianyuGuan.github.io 
